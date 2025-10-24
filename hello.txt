@@ -17,3 +17,4 @@ git config user.email // does the same for emails.
 git log// shows what has happened in the folder
 git status // does something
 git difference // shows the changes
+didn't get any of the branch stuff. 

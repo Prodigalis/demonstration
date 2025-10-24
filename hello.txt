@@ -7,3 +7,8 @@ git commit //commits the code
 
 git remote add origin https://github.com/Prodigalis/demonstration.git //this basically creates a link that can be used to push or pull the repos.
 git remote -v // shows you the links to the remote repo
+
+git config user.name" " // sets the name of the user doing the commmits
+git config user.email " "// does the same for email.
+git config user.name //returns the people using the repo
+git config user.email // does the same for emails. 

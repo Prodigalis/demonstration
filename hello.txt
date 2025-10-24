@@ -12,3 +12,8 @@ git config user.name" " // sets the name of the user doing the commmits
 git config user.email " "// does the same for email.
 git config user.name //returns the people using the repo
 git config user.email // does the same for emails. 
+
+
+git log// shows what has happened in the folder
+git status // does something
+git difference // shows the changes

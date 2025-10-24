@@ -1,2 +1,9 @@
 I can neither read nor write. 
 I solemnly swear that I am up to no good.
+
+git init //initialize the git project in the current folder
+git add . // adds all to the staging area
+git commit //commits the code 
+
+git remote add origin https://github.com/Prodigalis/demonstration.git //this basically creates a link that can be used to push or pull the repos.
+git remote -v // shows you the links to the remote repo
